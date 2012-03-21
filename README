@@ -1,0 +1,1 @@
+This script receive a web domain name and obtain a list of associated domains and their IPs to make differents scans with nmap.
